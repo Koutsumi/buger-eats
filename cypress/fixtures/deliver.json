@@ -1,0 +1,53 @@
+{
+    "signup":{
+        "name": "Fernanda",
+        "cpf": "60480405042",
+        "email": "febaccarini@gmail.com",
+        "whatsapp": "11 940028922",
+        "adress": {
+            "postalcode":"18705-300",
+            "street": "Rua Manoel Joaquim Garcia",
+            "number": "43",
+            "adress_detail": "Apto 23",
+            "district": "Jardim América",
+            "city_state": "Avaré/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv":{
+        "name": "João",
+        "cpf": "489545221AA",
+        "email": "emailjoaoi@gmail.com",
+        "whatsapp": "11 999999999",
+        "adress": {
+            "postalcode":"18705-300",
+            "street": "Rua Manoel Joaquim Garcia",
+            "number": "43",
+            "adress_detail": "Apto 23",
+            "district": "Jardim América",
+            "city_state": "Avaré/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"   
+    },
+
+    "email_inv":{
+        "name": "Fernanda",
+        "cpf": "60480405042",
+        "email": "emailformatoinvalido.com.br",
+        "whatsapp": "11 940028922",
+        "adress": {
+            "postalcode":"18705-300",
+            "street": "Rua Manoel Joaquim Garcia",
+            "number": "43",
+            "adress_detail": "Apto 23",
+            "district": "Jardim América",
+            "city_state": "Avaré/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+
+    
+}
