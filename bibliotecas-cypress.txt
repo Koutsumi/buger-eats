@@ -1,0 +1,9 @@
+npm init
+
+npm i cypress --save-dev
+
+npm i cypress-file-upload --save-dev
+
+npm install faker@5.5.3 --save-dev
+
+npm i gerador-validador-cpf --save-dev
