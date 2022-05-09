@@ -2,5 +2,6 @@
     "viewportWidth": 1440,
     "viewportHeight": 900,
     "baseUrl": "https://buger-eats-qa.vercel.app/",
-    "projectId": "tmj6cj"
+    "projectId": "tmj6cj",
+    "reporter": "cypress-mochawesome-reporter"
 }
